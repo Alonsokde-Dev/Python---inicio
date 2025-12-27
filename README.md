@@ -6,3 +6,4 @@ Revisão de Python com scripts simples para prática
 - basico/calculadora_simples.py → calculadora básica
 - basico/maioridade.py → exemplo de if/else
 - basico/menu_while.py → menu interativo com while
+- basico/contagem_for.py → exemplo de laço for
