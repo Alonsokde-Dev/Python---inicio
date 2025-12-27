@@ -7,3 +7,4 @@ Revisão de Python com scripts simples para prática
 - basico/maioridade.py → exemplo de if/else
 - basico/menu_while.py → menu interativo com while
 - basico/contagem_for.py → exemplo de laço for
+ basico/mini_cadastro.py → mini sistema de cadastro em Python
